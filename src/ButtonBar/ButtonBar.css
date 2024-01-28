@@ -1,0 +1,22 @@
+.contenedor__button{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #282c34;
+}
+
+.button__style{
+    background-color: rgb(213, 227, 20);
+    color: black;
+    padding: 10px;
+    margin: 20px;
+    border: 0;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+.numberPage{
+    color: white;
+    font-size: 2rem;
+    margin: 20px;
+}

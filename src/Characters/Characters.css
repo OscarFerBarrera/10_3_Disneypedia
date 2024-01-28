@@ -1,0 +1,13 @@
+.conteiner{
+    background-color: aqua;
+    width: 100%;
+}
+
+.Main{
+    width: 100%;
+    /* background-color: #282c34; */
+    background-color: #08d0ea;
+    display:flex;
+    flex-wrap: wrap;
+
+}
